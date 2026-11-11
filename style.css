@@ -1,1 +1,49 @@
+body {
+    background-color: rgb(255, 111, 207);
+    color: rgb(255, 144, 218);
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
 
+header {
+    background-color:rgb(255, 161, 224);
+    color:rgb(255, 188, 233) ;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    color: rgb(255, 200, 237);
+}
+
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+nav a {
+    color: rgb(255, 213, 241);
+    text-decoration: none;
+    background-color: rgb(255, 228, 246);
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin: 5px;
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color: rgb(255, 238, 249);
+}
+
+main {
+    
+}
